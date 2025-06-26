@@ -8,7 +8,7 @@
   "start_t2t": 94266544,
   "stop_t2t": 94266567,
   "id": "OPDM5_ABCD3",
-  "disease_id"f: "OPDM5",
+  "disease_id": "OPDM5",
   "gene_strand": "+",
   "reference_motif_reference_orientation": ["GCC"],
   "pathogenic_motif_reference_orientation": ["GCC"],
